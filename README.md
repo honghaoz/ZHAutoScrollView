@@ -1,6 +1,5 @@
 # AutoKeyboardScrollView
 
-[![CI Status](http://img.shields.io/travis/honghaoz/AutoKeyboardScrollView.svg?style=flat)](https://travis-ci.org/honghaoz/AutoKeyboardScrollView)
 [![Version](https://img.shields.io/cocoapods/v/AutoKeyboardScrollView.svg?style=flat)](http://cocoapods.org/pods/AutoKeyboardScrollView)
 [![License](https://img.shields.io/cocoapods/l/AutoKeyboardScrollView.svg?style=flat)](http://cocoapods.org/pods/AutoKeyboardScrollView)
 [![Platform](https://img.shields.io/cocoapods/p/AutoKeyboardScrollView.svg?style=flat)](http://cocoapods.org/pods/AutoKeyboardScrollView)
@@ -75,7 +74,7 @@ Support iOS 7 and above. Not tested on iOS 6, since Auto Layout came from iOS6, 
 
 ## Author
 
-Honghao Zhang (张宏昊)
+Honghao Zhang
 
 ## License
 
